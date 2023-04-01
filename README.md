@@ -1,6 +1,4 @@
 # TheSlowHalloween
-TSL用ハロウィンイベントプラグイン
-
-必須プラグイン [mcMMO]
-
-configリロードコマンド : /tsh reload
+Halloween Event Plug-in for TSL
+Plugin [mcMMO] is required.
+Config reload command : /tsh reload
