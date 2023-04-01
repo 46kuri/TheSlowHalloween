@@ -1,5 +1,5 @@
 # TheSlowHalloween
-Halloween Event Plug-in for TSL
+Halloween Event Plugin for TSL
 
 Plugin [mcMMO] is required.
 
